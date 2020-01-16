@@ -9,4 +9,4 @@ def downloadYouTube(videourl, path):
         os.makedirs(path)
     yt.download(path)
 
-downloadYouTube('https://www.youtube.com/watch?v=jHORhWMCwmY', '/tmp/')
+downloadYouTube('VidUrl', '/tmp/')
