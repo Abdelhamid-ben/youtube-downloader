@@ -8,5 +8,5 @@ def downloadYouTube(videourl, path):
     if not os.path.exists(path):
         os.makedirs(path)
     yt.download(path)
-video = raw_input("paste the video url please : ")
-downloadYouTube(video, '/tmp/')
+
+downloadYouTube(https://www.youtube.com/watch?v=jHORhWMCwmY, '/tmp/')
